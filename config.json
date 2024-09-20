@@ -1,6 +1,6 @@
 {
     "run_app": true,
     "users": [
-        ["gp", "b6f236f45e11f6bbf4ea884d97d0576cf4bccd55e8348cc92c77d803d4c114af", "admin"]
+        ["gp", "b6f236f45e11f6bbf4ea884d97d0576cf4bccd55e8348cc92c77d803d4c114af", true]
     ]
 }
